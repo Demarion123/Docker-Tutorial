@@ -1,0 +1,36 @@
+2024-06-25 01:43:04,195 - __main__ - INFO - Starting the division script
+2024-06-25 01:43:04,195 - __main__ - DEBUG - Attempting to divide 10 by 0
+2024-06-25 01:43:04,211 - __main__ - ERROR - Division by zero error
+Traceback (most recent call last):
+  File "C:\Users\USER\source\repos\app\app.py", line 19, in divide_numbers
+    result = a / b
+ZeroDivisionError: division by zero
+2024-06-25 01:43:04,211 - __main__ - WARNING - Result is None due to an error in division
+2024-06-25 01:43:04,211 - __main__ - DEBUG - Attempting to divide 5 by 2
+2024-06-25 01:43:04,211 - __main__ - INFO - Division successful: 5 / 2 = 2.5
+2024-06-25 01:43:04,211 - __main__ - INFO - Result of division: 2.5
+2024-06-25 01:43:04,211 - __main__ - INFO - Script finished
+2024-06-25 02:38:33,306 - __main__ - INFO - Starting the division script
+2024-06-25 02:38:33,321 - __main__ - DEBUG - Attempting to divide 10 by 0
+2024-06-25 02:38:33,321 - __main__ - ERROR - Division by zero error
+Traceback (most recent call last):
+  File "C:\Users\USER\source\repos\app\app.py", line 19, in divide_numbers
+    result = a / b
+ZeroDivisionError: division by zero
+2024-06-25 02:38:33,321 - __main__ - WARNING - Result is None due to an error in division
+2024-06-25 02:38:33,321 - __main__ - DEBUG - Attempting to divide 5 by 2
+2024-06-25 02:38:33,321 - __main__ - INFO - Division successful: 5 / 2 = 2.5
+2024-06-25 02:38:33,321 - __main__ - INFO - Result of division: 2.5
+2024-06-25 02:38:33,321 - __main__ - INFO - Script finished
+2024-06-25 02:43:19,491 - __main__ - INFO - Starting the division script
+2024-06-25 02:43:19,491 - __main__ - DEBUG - Attempting to divide 10 by 0
+2024-06-25 02:43:19,491 - __main__ - ERROR - Division by zero error
+Traceback (most recent call last):
+  File "C:\Users\USER\source\repos\app\app.py", line 19, in divide_numbers
+    result = a / b
+ZeroDivisionError: division by zero
+2024-06-25 02:43:19,507 - __main__ - WARNING - Result is None due to an error in division
+2024-06-25 02:43:19,507 - __main__ - DEBUG - Attempting to divide 5 by 2
+2024-06-25 02:43:19,507 - __main__ - INFO - Division successful: 5 / 2 = 2.5
+2024-06-25 02:43:19,507 - __main__ - INFO - Result of division: 2.5
+2024-06-25 02:43:19,507 - __main__ - INFO - Script finished
